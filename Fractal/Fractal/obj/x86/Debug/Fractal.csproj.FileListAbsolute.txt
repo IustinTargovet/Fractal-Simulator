@@ -1,0 +1,17 @@
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\bin\Debug\Fractal.exe
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\bin\Debug\Fractal.pdb
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.Form1.resources
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.Properties.Resources.resources
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.csproj.GenerateResource.Cache
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.exe
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.pdb
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.main_form.resources
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.koch_form.resources
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.cesaro_form.resources
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.sierpinski_form.resources
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.dragon_form.resources
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.trisierpinski_form.resources
+C:\Users\Claudiu\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.barnsley_form.resources
+C:\Users\j_tir\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.exe
+C:\Users\j_tir\Desktop\PROIECT ATESTAT\Fractal\Fractal\obj\x86\Debug\Fractal.pdb
